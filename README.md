@@ -4,7 +4,7 @@ A responsive web application that allows users to search for movies, view trendi
 
 ### 🚀 Live Demo
 
-👉 [View the Live App](https://your-live-demo-link.com)  
+👉 [View the Live App](https://filmspot-movieexplorer.netlify.app/)  
 
 ---
 
@@ -51,4 +51,4 @@ This app uses The Movie Database (TMDb) API:
 - Material-UI (MUI)
 - TMDb API
 - YouTube Embed (for trailers)
-- Vercel (for deployment)
+- Netlify (for deployment)
