@@ -15,7 +15,17 @@ A responsive web application that allows users to search for movies, view trendi
    https://github.com/sandali21/MovieExplorer.git
    cd MovieExplorer
 
-2. **Run the App**
+2. **Install Depedencies**
+   ```bash
+   npm install
+
+3. **Add TMDb API key**
+   ```bash
+   API_KEY = yuor_tmdb_api_key
+   
+> Get your API key by signing up at [TMDb](https://www.themoviedb.org) and generating and API key under settings
+
+4. **Run the App**
    ```bash
    npm start
 
